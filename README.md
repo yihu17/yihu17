@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Chester
+I'm a recent computer science graduate from Lacaster University. 
+
+My github is a combination of both individual projects and university courseworks. 
+
+I've learnt and primarily code in Java, C and Python, however I'm looking to learnt more languages and is currently learning C#.
+
 
 <!--
 **yihu17/yihu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
