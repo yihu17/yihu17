@@ -1,5 +1,5 @@
 ### Hi, I'm Chester
-I'm a recent computer science graduate from Lacaster University. I've learnt and primarily code in Java, C and Python, however I'm looking to learn more languages and is currently learning C#.
+I'm a recent computer science graduate from Lacaster University. I've learnt and primarily code in Java, C and Python, however I'm looking to learn more languages and is currently learning C# and C++.
 
 My github is a combination of both individual projects and university courseworks. 
 
