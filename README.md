@@ -1,5 +1,5 @@
 ### Hi, I'm Chester
-I'm a recent computer science graduate from Lacaster University. I've learnt and primarily code in Java, C and Python, however I'm looking to learn more languages and is currently learning C# specifically for building applications in Unity Engine and ASP.NET.
+I'm a computer science graduate from Lacaster University and currently studying a Masters in Games Design and Development at the National Film and Television School.
 
 My github is a combination of both individual projects and university courseworks. 
 
